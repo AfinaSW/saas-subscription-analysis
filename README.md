@@ -4,6 +4,7 @@ This Power BI project analyzes subscription performance, customer support operat
 
 The goal was to identify potential drivers of revenue growth, subscription changes, customer satisfaction, and product adoption while providing executive-level insights through interactive dashboards.
 
+
 ## 🎯 Business Questions
 
 ### 💰 Revenue & Growth
@@ -114,7 +115,7 @@ Explores product adoption, feature usage patterns, beta feature adoption, and pr
 
 ## 🔍 Additional Analysis
 
-## Engagement and Churn Trend Analysis
+### Engagement and Churn Trend Analysis
 
 An exploratory analysis was conducted to investigate whether declining product engagement could act as an early indicator of customer churn.
 
