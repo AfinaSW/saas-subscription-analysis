@@ -7,10 +7,6 @@ This Power BI project analyzes subscription performance, customer support operat
 
 The goal was to identify potential drivers of revenue growth, subscription changes, customer satisfaction, and product adoption while providing executive-level insights through interactive dashboards.
 
----
-
-## 🎯 Business Objectives
-
 This analysis was designed to answer the following questions:
 
 ### 💰 Revenue & Growth
