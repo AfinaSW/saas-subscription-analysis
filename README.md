@@ -63,13 +63,13 @@ Provides a high-level view of business performance, customer distribution, reven
 
 ### Key Insights
 
-✅ Enterprise customers generate the majority of recurring revenue.
+✅ Revenue generation is heavily concentrated among Enterprise customers, highlighting the importance of retaining high-value accounts.
 
-✅ Upgrade activity exceeds downgrade activity across all plans.
+✅ Customer attrition remains elevated across all subscription tiers, suggesting retention opportunities throughout the customer base.
 
-✅ Churn remains elevated across subscription tiers.
+✅ Subscription activity indicates healthy movement between plans, with upgrade events occurring more frequently than downgrades.
 
-✅ MRR remains relatively stable throughout the reporting period.
+✅ Revenue trends remained relatively stable during the reporting period despite fluctuations in customer behavior.
 
 ### Dashboard Preview
 
@@ -83,13 +83,13 @@ Evaluates customer satisfaction, resolution efficiency, and the relationship bet
 
 ### Key Insights
 
-✅ Customer satisfaction remained stable throughout the reporting period.
+✅ Support operations demonstrated consistent performance throughout the reporting period.
 
-✅ Resolution times showed limited variation over time.
+✅ Customer satisfaction levels remained stable, indicating a generally positive support experience.
 
-✅ Highly engaged support users were not more likely to downgrade.
+✅ Resolution efficiency showed limited volatility, suggesting predictable service delivery.
 
-✅ No strong evidence was found that support interactions were a primary driver of subscription changes.
+✅ Analysis of support-intensive accounts did not reveal a clear connection between frequent support interactions and negative subscription outcomes.
 
 ### Dashboard Preview
 
@@ -103,15 +103,15 @@ Explores product adoption, feature usage patterns, beta feature adoption, and pr
 
 ### Key Insights
 
-✅ Product engagement was evenly distributed across subscription tiers.
+✅ Customers engaged with the platform at similar levels regardless of subscription tier.
 
-✅ Usage intensity remained consistent across customer segments.
+✅ Feature usage patterns were broadly distributed, with no single feature dominating overall engagement.
 
-✅ Beta features accounted for approximately 10% of total product interactions.
+✅ Beta functionality accounted for a modest share of product activity, indicating potential opportunities for increased adoption.
 
-✅ Beta and standard functionality exhibited comparable error rates.
+✅ Product quality metrics remained consistent across both beta and standard functionality, with no significant performance gaps identified.
 
-✅ No significant concentration of usage or quality issues was identified across product features.
+✅ Feature-level analysis did not reveal notable outliers in either engagement or error rates.
 
 ### Dashboard Preview
 
