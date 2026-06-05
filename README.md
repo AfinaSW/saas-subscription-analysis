@@ -44,7 +44,7 @@ The solution was built using a star schema model.
 
 ### Data Model Diagram
 
-![Data Model](Data_Model.PNG)
+![Data Model](Data_Model/Data_Model.PNG)
 
 ---
 
