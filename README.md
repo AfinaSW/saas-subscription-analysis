@@ -142,28 +142,7 @@ This analysis highlights the importance of validating business assumptions throu
 
 ---
 
-## 📌 Key Takeaways
-
-### Business Performance
-
-* Enterprise customers contribute the largest share of recurring revenue.
-* Subscription upgrades outnumber downgrades across the customer base.
-* Churn remains elevated across all subscription tiers.
-
-### Customer Support
-
-* Support quality remained stable over time.
-* No meaningful relationship was identified between support activity and subscription changes.
-
-### Product Engagement
-
-* Product usage patterns remained balanced across plans and features.
-* Beta adoption remains relatively low (~10%).
-* Product quality metrics were consistent across customer segments.
-
----
-
-# 📌 Project Outcome & Dataset Considerations
+## 📌 Project Outcome & Dataset Considerations
 
 This project demonstrates an end-to-end Power BI analytics workflow, including dimensional data modeling, DAX development, KPI design, dashboard storytelling, and business-focused hypothesis testing.
 
