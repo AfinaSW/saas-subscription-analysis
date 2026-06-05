@@ -1,4 +1,4 @@
-# 📊 SaaS Subscription Analytics Dashboard
+
 ![Engagement vs Churn](Dashboard/logo.PNG)
 
 ## 🚀 Project Overview
