@@ -163,24 +163,15 @@ This analysis highlights the importance of validating business assumptions throu
 
 ---
 
-# 📌 Project Outcome
+📌 Project Outcome & Dataset Considerations
 
-This project demonstrates end-to-end Power BI development, including:
+This project demonstrates an end-to-end Power BI analytics workflow, including dimensional data modeling, DAX development, KPI design, dashboard storytelling, trend analysis, and business-focused hypothesis testing.
 
-Dimensional data modeling
-DAX measure development
-KPI design
-Dashboard storytelling
-Business-focused analytics
-Hypothesis testing
+The analysis explored revenue performance, customer support effectiveness, subscription behavior, and product engagement patterns within a SaaS environment. While no strong evidence was found that support activity or product usage patterns were primary drivers of subscription changes, the project illustrates a structured approach to validating business assumptions through data.
 
-The analysis found no strong evidence that support activity or product usage patterns were primary drivers of subscription changes within the observed dataset, reinforcing the importance of validating business assumptions through data.
-```
-# 📋 Dataset Considerations
+It is important to note that this project was developed using a synthetic SaaS dataset created for analytical and dashboarding practice. As a result, several metrics exhibited relatively balanced distributions across customer segments, subscription tiers, and product features. In real-world SaaS businesses, customer behavior, feature adoption, product usage, and quality metrics are typically more concentrated and unevenly distributed.
 
-This project was developed using a synthetic SaaS dataset designed for analytical and dashboarding practice.
-
-As a result, several business metrics exhibited relatively balanced distributions across customer segments, subscription tiers, and product features. In real-world SaaS environments, usage patterns, feature adoption, customer behavior, and product quality metrics are typically more concentrated and unevenly distributed.
+The primary objective of this project was not to maximize insight discovery, but to demonstrate a complete analytical process—from data modeling and KPI development to business interpretation and executive reporting—while applying best practices in Power BI and data storytelling.
 
 Despite these limitations, the dataset provided an opportunity to demonstrate a complete analytical workflow, including data modeling, KPI development, hypothesis testing, trend analysis, and executive dashboard design.
 The primary objective of this project was not to maximize insight discovery, but to demonstrate a structured analytical approach to answering business questions using Power BI
