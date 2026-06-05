@@ -1,13 +1,10 @@
-
-![Engagement vs Churn](Dashboard/logo.PNG)
-
-## 🚀 Project Overview
+📊 SaaS Subscription Analytics Dashboard
 
 This Power BI project analyzes subscription performance, customer support operations, and product engagement within a SaaS business.
 
 The goal was to identify potential drivers of revenue growth, subscription changes, customer satisfaction, and product adoption while providing executive-level insights through interactive dashboards.
 
-This analysis was designed to answer the following questions:
+🎯 Business Questions
 
 ### 💰 Revenue & Growth
 
@@ -166,24 +163,26 @@ This analysis highlights the importance of validating business assumptions throu
 
 ---
 
-# 📁 Repository Structure
+# 📌 Project Outcome
 
-```text
-saas-subscription-analytics/
-│
-├── README.md
-│
-├── Dashboar/
-│   ├── Executive_Overview.png
-│   ├── Support_Analysis.png
-│   ├── Product_Engagement_Analysis.png
-│   └── Engagement_vs_Churn.png
-│
-├── data_model/
-│   └── Data_Model.png
-│
-└── pbix/
-    └── SaaS_Subscription_Analytics.pbix
+This project demonstrates end-to-end Power BI development, including:
+
+Dimensional data modeling
+DAX measure development
+KPI design
+Dashboard storytelling
+Business-focused analytics
+Hypothesis testing
+
+The analysis found no strong evidence that support activity or product usage patterns were primary drivers of subscription changes within the observed dataset, reinforcing the importance of validating business assumptions through data.
 ```
+# 📋 Dataset Considerations
 
-⭐ Feel free to explore the dashboards and provide feedback.
+This project was developed using a synthetic SaaS dataset designed for analytical and dashboarding practice.
+
+As a result, several business metrics exhibited relatively balanced distributions across customer segments, subscription tiers, and product features. In real-world SaaS environments, usage patterns, feature adoption, customer behavior, and product quality metrics are typically more concentrated and unevenly distributed.
+
+Despite these limitations, the dataset provided an opportunity to demonstrate a complete analytical workflow, including data modeling, KPI development, hypothesis testing, trend analysis, and executive dashboard design.
+The primary objective of this project was not to maximize insight discovery, but to demonstrate a structured analytical approach to answering business questions using Power BI
+
+⭐ If you found this project interesting, feel free to explore the dashboards and share your feedback.
